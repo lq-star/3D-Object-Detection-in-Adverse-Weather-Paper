@@ -1,6 +1,6 @@
 # 恶劣天气下的 3D 目标检测论文
 
-### 论文题目：Object Detection in Autonomous Vehicles under Adverse Weather: A Review of Traditional and Deep Learning Approaches
+### （综述1）论文题目：Object Detection in Autonomous Vehicles under Adverse Weather: A Review of Traditional and Deep Learning Approaches1
 --------
 ##### 发表日期：2024年2月26日
 ##### 发表期刊/会议 (及级别)：《Algorithms》
@@ -14,7 +14,7 @@
 ##### 对我写恶劣天气下的3D目标检测论文有什么用：
 
 
-### 论文题目：
+### （）论文题目：
 --------
 ##### 发表日期：年月日
 ##### 发表期刊/会议 (及级别)：《》
