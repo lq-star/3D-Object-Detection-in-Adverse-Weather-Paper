@@ -15,13 +15,14 @@
 ### 对我写恶劣天气下的3D目标检测论文有什么用：
 
 
-## （）论文题目：
+
+## （）论文题目：Benchmarking and Improving Bird’s Eye View Perception Robustness in Autonomous Driving
 --------
-### 发表日期：年月日
-### 发表期刊/会议 (及级别)：《》
+### 发表日期：2025年5月
+### 发表期刊/会议 (及级别)：《IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE》（IEEE TPAMI）
 ### DOI10.1109/TPAMI.2025.3535960
 ### 作者团队/机构：
-### 开源代码链接：
+### 开源代码链接：https://github.com/Daniel-xsy/RoboBEV
 
 ### 针对什么问题：
 ### 以前怎么做的：
@@ -29,19 +30,3 @@
 ### 实验（对比试验和消融实验）：
 
 ### 对我写恶劣天气下的3D目标检测论文有什么用：
-
-
-## （）论文题目：
---------
-### 发表日期：2025年5月
-### 发表期刊/会议 (及级别)：《IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE》（IEEE TPAMI）
-### DOI10.1109/TPAMI.2025.3535960
-### 作者团队/机构：
-### 开源代码链接：
-
-### 针对什么问题：
-### 以前怎么做的：
-### 本文解决方法：
-### 实验（对比试验和消融实验）：
-
-### 对我写恶劣天气下的3D目标检测论文有什么用：啊啊
