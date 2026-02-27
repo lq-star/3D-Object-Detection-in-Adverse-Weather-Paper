@@ -3,8 +3,8 @@
 ## （综述1）论文题目：Object Detection in Autonomous Vehicles under Adverse Weather: A Review of Traditional and Deep Learning Approaches1
 --------
 ### 发表日期：2024年2月26日
-### 发表期刊/会议 (及级别)：《Algorithms》
-### DOI10.1109/TPAMI.2025.3535960
+### 发表期刊/会议：《Algorithms》
+### DOI
 ### 作者团队/机构：
 ### 开源代码链接：
 
@@ -19,7 +19,7 @@
 ## （）论文题目：Benchmarking and Improving Bird’s Eye View Perception Robustness in Autonomous Driving
 --------
 ### 发表日期：2025年5月
-### 发表期刊/会议 (及级别)：《IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE》（IEEE TPAMI）
+### 发表期刊/会议：《IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE》（IEEE TPAMI）
 ### DOI10.1109/TPAMI.2025.3535960
 ### 作者团队/机构：
 ### 开源代码链接：https://github.com/Daniel-xsy/RoboBEV
