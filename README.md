@@ -45,8 +45,11 @@
 概述了BEV感知算法的常用技术作为预备知识。
 4.BENCHMARK DESIGN
 4.1 数据集生成
-创建nuScenes-C，通过向nuScenes验证集引入八种损坏（亮度、黑暗、雾、雪、运动模糊、颜色量化、相机崩溃、帧丢失），每个有三个严重级别。总计866,736张图像。模拟相机-LiDAR融合的完整传感器故障。
+通过向nuScenes验证集引入八种损坏，创建nuScenes-C数据集，每种损坏有三个严重级别(Easy,Moderate,Hard)，Parameter是用来生成损坏的参数。一张原始的验证集图像会生成24张损坏图像，总计生成866,736张图像。
 ![alt text](image.png)
+4.2 自然损坏
+![alt text](<屏幕截图 2026-02-28 130059.png>)
+图2的x轴是像素值范围 0–255，y轴是该像素值出现的数量，这里用了300张nuScenes图像。原始的图像像素分布很均匀，当添加八种损失后，像素的分布就变化了。这说明损失会导致原始数据变换进而影响BEV感知结果。但是并不是像素改变越大对BEV感知的结果影响越大。
 5.BENCHMARK EXPERIMENTS
 6.ANALYSIS AND DISCUSSION
 7.CONCLUSION
