@@ -1,6 +1,6 @@
 # 恶劣天气下的 3D 目标检测论文
 
-## （综述1）论文题目：Object Detection in Autonomous Vehicles under Adverse Weather: A Review of Traditional and Deep Learning Approaches1
+## （综述1.pdf）论文题目：Object Detection in Autonomous Vehicles under Adverse Weather: A Review of Traditional and Deep Learning Approaches1
 --------
 ### 一、发表日期：2024年2月26日
 ### 二、发表期刊/会议：《Algorithms》
@@ -16,7 +16,7 @@
 
 
 
-## （）论文题目：Benchmarking and Improving Bird’s Eye View Perception Robustness in Autonomous Driving
+## （RoboBEV.pdf）论文题目：Benchmarking and Improving Bird’s Eye View Perception Robustness in Autonomous Driving
 --------
 ### 一、发表日期：2025年5月
 ### 二、发表期刊/会议：《IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE》（IEEE TPAMI）
