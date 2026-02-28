@@ -36,11 +36,17 @@
 0.Abstract
 1.INTRODUCTION
 2.RELATED WORKS
-    2.1   基于相机的BEV感知
-    2.2   基于LiDAR的3D感知
-
+2.1基于相机的BEV感知
+2.2基于LiDAR的3D感知
+2.3 对抗攻击下的鲁棒性
+2.4 自然损坏下的鲁棒性
+2.5 使用CLIP的鲁棒性增强
 3.BEV PERCEPTION PRELIMINARIES
+概述了BEV感知算法的常用技术作为预备知识。
 4.BENCHMARK DESIGN
+4.1 数据集生成
+创建nuScenes-C，通过向nuScenes验证集引入八种损坏（亮度、黑暗、雾、雪、运动模糊、颜色量化、相机崩溃、帧丢失），每个有三个严重级别。总计866,736张图像。模拟相机-LiDAR融合的完整传感器故障。
+![alt text](image.png)
 5.BENCHMARK EXPERIMENTS
 6.ANALYSIS AND DISCUSSION
 7.CONCLUSION
